@@ -1,6 +1,6 @@
 {
   "name": "is-dark-mode",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Check if macOS is set to dark mode/theme.",
   "homepage": "https://www.robertgabriel.ninja",
   "author": {
